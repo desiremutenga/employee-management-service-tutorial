@@ -1,4 +1,4 @@
-package com.dailycodebuffer.employee.entity;
+package com.desire.employee.entity;
 
 import lombok.Data;
 

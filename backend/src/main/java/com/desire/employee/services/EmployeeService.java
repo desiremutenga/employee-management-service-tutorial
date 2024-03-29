@@ -1,6 +1,6 @@
-package com.dailycodebuffer.employee.services;
+package com.desire.employee.services;
 
-import com.dailycodebuffer.employee.model.Employee;
+import com.desire.employee.model.Employee;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.dailycodebuffer.employee.model;
+package com.desire.employee.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

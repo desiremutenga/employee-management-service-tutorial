@@ -1,8 +1,7 @@
-package com.dailycodebuffer.employee.controller;
+package com.desire.employee.controller;
 
-import com.dailycodebuffer.employee.model.Employee;
-import com.dailycodebuffer.employee.services.EmployeeService;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.desire.employee.model.Employee;
+import com.desire.employee.services.EmployeeService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

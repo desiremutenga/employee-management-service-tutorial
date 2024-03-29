@@ -1,6 +1,6 @@
-package com.dailycodebuffer.employee.repository;
+package com.desire.employee.repository;
 
-import com.dailycodebuffer.employee.entity.EmployeeEntity;
+import com.desire.employee.entity.EmployeeEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

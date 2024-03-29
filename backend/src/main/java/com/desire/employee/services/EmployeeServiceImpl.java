@@ -1,8 +1,8 @@
-package com.dailycodebuffer.employee.services;
+package com.desire.employee.services;
 
-import com.dailycodebuffer.employee.entity.EmployeeEntity;
-import com.dailycodebuffer.employee.model.Employee;
-import com.dailycodebuffer.employee.repository.EmployeeRepository;
+import com.desire.employee.entity.EmployeeEntity;
+import com.desire.employee.model.Employee;
+import com.desire.employee.repository.EmployeeRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 
